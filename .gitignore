@@ -34,3 +34,7 @@ yarn.lock
 
 # OSX .DS_Store
 .DS_Store
+
+
+# test files
+test/yoloModel.bin
